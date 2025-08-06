@@ -14,3 +14,13 @@ const test=()=>{
 
 
 test()
+
+
+
+const function1=()=>{
+    console.log("new function")
+}
+
+
+function1()
+
